@@ -7,7 +7,7 @@ interface Employee {
     isPresent: boolean;         
     skills: string[];   
     salary: number;
-    department: string;
+    department: string
 }
 
 
