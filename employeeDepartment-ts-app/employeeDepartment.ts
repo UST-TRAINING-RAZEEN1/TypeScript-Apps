@@ -32,7 +32,6 @@ class Department {
     }
 }
 
-// Example usage
 const engineering = new Department("Engineering");
 engineering.addEmployee(new Employee(1, "Alice", 70000));
 engineering.addEmployee(new Employee(2, "Charlie", 80000));
